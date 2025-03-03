@@ -6,14 +6,23 @@ This project involves performing a cohort analysis on a Superstore retail datase
 Dataset Attribute Information
 
 InvoiceNo: Invoice number, a 6-digit integral value uniquely identifying each transaction. Invoices starting with 'C' indicate cancellations.
+
 StockCode: Product code, a 5-digit number uniquely identifying each product.
+
 Description: Name of the product.
+
 Quantity: The quantity of each product per transaction.
+
 InvoiceDate: Date and time when the transaction occurred.
+
 UnitPrice: The unit price of each product.
+
 CustomerID: Unique ID assigned to each customer.
+
 Country: Customer's country.
+
 Data Preprocessing Steps
+
 The following data preprocessing steps were implemented to prepare the dataset for analysis:
 
 -----------------------------------------------------------------
